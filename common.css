@@ -1,9 +1,0 @@
-/* 无magrin和padding，字体大小为16，显示为块 */
-html, body {
-    margin: 0;
-    padding: 0;
-    background-color: #fafafa;
-    font: initial;
-    font-size: 16px;
-    display: block;
-}
